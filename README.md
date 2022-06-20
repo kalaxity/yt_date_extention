@@ -1,16 +1,19 @@
 # yt_date_extention
 
-YouTubeの動画再生画面に書かれた投稿日時を，チャンネル登録者数の部分に追記するChrome拡張機能です．
+YouTubeの動画再生画面に書かれた投稿日時を，チャンネル登録者数の部分に追記するChrome拡張機能です．  
 Chrome Extention which displays a published date of a YouTube movie on another place.
 
+名前は適当に決めました．  
+I named this extention in 3 seconds.
+
 ## How to use: 使い方
-拡張機能のインストールにはこの記事などが参考になると思います．
+拡張機能のインストールにはこの記事などが参考になると思います．  
 This article is useful for installing this extention.
 
 https://note.affi-sapo-sv.com/chrome-extent-test.php
 
 ## Reference: 参考資料
-作成時は次の資料を参考にしました．
+作成時は次の資料を参考にしました．  
 To make this chrome extention, I referred these websites:
 
 - Chrome Extention
