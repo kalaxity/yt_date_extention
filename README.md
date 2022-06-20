@@ -1,5 +1,5 @@
 # yt_date_extention
-Chrome Extention which displays a published date of a movie on another place.
+Chrome Extention which displays a published date of a YouTube movie on another place.
 
 # Reference
 To make this chrome extention, I referred these websites:
