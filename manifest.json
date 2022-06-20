@@ -1,0 +1,12 @@
+{
+	"name": "ytdate",
+	"description": "display publish date on another place",
+	"version": "1.0",
+	"manifest_version": 3, 
+	"content_scripts": [
+		{
+			"matches": ["https://www.youtube.com/watch?v=*"],
+			"js": ["script.js"]
+		}
+	]
+}
