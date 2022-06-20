@@ -16,6 +16,7 @@ To make this chrome extention, I referred these websites:
 - Chrome Extention
   - https://www.tohoho-web.com/ex/chrome_extension.html
   - https://qiita.com/mdstoy/items/9866544e37987337dc79
+	- http://www2.kobe-u.ac.jp/~tnishida/programming/ChromeExtension-02.html
 - string.search() method
   - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/search
 - How to wait construction of DOM elements
